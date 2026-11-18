@@ -1,0 +1,12 @@
+# Claves y configuración local (NO subir)
+.env
+.claude/settings.local.json
+
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Registros
+*.log

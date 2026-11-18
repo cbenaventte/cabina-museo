@@ -1,0 +1,8 @@
+numpy
+sounddevice
+pyserial
+requests
+edge-tts
+miniaudio
+python-dotenv
+pytest
